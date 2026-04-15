@@ -12,7 +12,7 @@ const Hero = () => {
       
       {/* Glow orbs */}
       <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[600px] h-[400px] bg-primary/10 rounded-full blur-[120px]" />
-      <div className="absolute bottom-1/4 left-1/3 w-[300px] h-[300px] bg-blue-500/8 rounded-full blur-[100px]" />
+      <div className="absolute bottom-1/4 left-1/3 w-[300px] h-[300px] bg-primary/5 rounded-full blur-[100px]" />
 
       <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
         {/* Badge */}

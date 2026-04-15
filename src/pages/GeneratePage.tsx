@@ -189,7 +189,7 @@ const GeneratePage = () => {
                       onClick={() => handleCopy(section.content, section.id)}
                     >
                       {copiedId === section.id ? (
-                        <Check className="w-3 h-3 text-green-400" />
+                        <Check className="w-3 h-3 text-primary" />
                       ) : (
                         <Copy className="w-3 h-3" />
                       )}
