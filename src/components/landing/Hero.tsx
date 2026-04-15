@@ -62,8 +62,8 @@ const Hero = () => {
         <div className="mt-16 glass rounded-2xl p-6 glow-md max-w-3xl mx-auto text-left">
           <div className="flex items-center gap-2 mb-4">
             <div className="w-3 h-3 rounded-full bg-destructive/80" />
-            <div className="w-3 h-3 rounded-full bg-yellow-500/80" />
-            <div className="w-3 h-3 rounded-full bg-green-500/80" />
+            <div className="w-3 h-3 rounded-full bg-accent/60" />
+            <div className="w-3 h-3 rounded-full bg-primary/60" />
             <span className="ml-2 text-xs text-muted-foreground font-mono">specforge-output.md</span>
           </div>
           <div className="font-mono text-sm space-y-1.5 text-muted-foreground">
